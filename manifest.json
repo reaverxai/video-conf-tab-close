@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Zoom Closer",
-  "description": "This extension automatically closes the launched window from Zoom meetings.",
+  "name": "Video Conference Tabs Closer",
+  "description": "This extension automatically closes the launched window from Zoom and Teams meetings.",
   "version": "1.6",
 
   "icons": {
