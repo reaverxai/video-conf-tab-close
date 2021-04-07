@@ -26,6 +26,7 @@
         "https://zoom.us/s/*",
         "https://*.zoom.us/s/*",
         "https://teams.microsoft.com/dl/launcher/launcher.html/*"
+        "https://*.quip.com/web-desktop-app-redirect*"
       ],
       "js": [
         "content.js"
